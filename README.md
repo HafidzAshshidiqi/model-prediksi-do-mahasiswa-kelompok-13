@@ -1,6 +1,11 @@
 
 # 📘 Laporan Proyek Machine Learning - Prediksi Risiko DO Mahasiswa
 
+## Kelompok 13
+
+1. M. Febri Ardiansyah (G1A022049)
+2. M. Hafidz Ashshidiqi (G1A022079
+
 ## 🧭 Domain Proyek
 
 Pendidikan tinggi merupakan salah satu faktor kunci dalam pembangunan sumber daya manusia. Namun, banyak mahasiswa mengalami kesulitan menyelesaikan studi tepat waktu, bahkan berisiko drop out (DO). Proyek ini bertujuan untuk membangun sistem prediksi dini terhadap risiko DO mahasiswa berdasarkan data akademik, ekonomi, dan aktivitas mereka.
